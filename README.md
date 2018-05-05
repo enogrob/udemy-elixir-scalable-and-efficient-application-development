@@ -56,9 +56,9 @@ Control Flow
 Section: 6
 0 / 3
 IO
-[ ] 14. Standard IO 3:13
-[ ] 15. Files 3:37
-[ ] Quiz 6: Quiz Time! 0:00
+[x] 14. Standard IO 3:13
+[x] 15. Files 3:37
+[x] Quiz 6: Quiz Time! 0:00
 
 Section: 7
 0 / 4
